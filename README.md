@@ -1,6 +1,6 @@
 # About Me
-## Skills
-![](https://skillicons.dev/icons?&perline=6&i=rails,react,unity,cs,html,css,ae,blender,cpp,git,github,ai,js,md,nextjs,p5js,ruby,tailwind)
+## I'm Studying...
+![](https://skillicons.dev/icons?&perline=5&i=rails,react,html,css,cpp,git,github,js,nextjs,tailwind)
 
 ## GitHub Stats
 <p align="left"> 
