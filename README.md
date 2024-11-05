@@ -1,3 +1,3 @@
 ## I'm Studying...
-![](https://skillicons.dev/icons?&perline=12&i=ruby,react,nextjs,go,ts,cpp,git)
+![](https://skillicons.dev/icons?&perline=12&i=react,nextjs,go,ruby,ts,tailwind,cpp,git)
 
